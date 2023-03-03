@@ -9,7 +9,7 @@ A creative, hard-working and goal-oriented third year Computer Science student w
 - <b>C projects</b>
   - NetPBM Image Editor: https://github.com/mehigh8/ImageEditor
   - Hash Ring based Load Balancer: https://github.com/mehigh8/LoadBalancer
-  - Implementation of a Rope (data structure): https://github.com/mehigh8/RopeDataStrucure
+  - Implementation of a Rope (data structure): https://github.com/mehigh8/RopeDataStructure
   - Router functionalities simulation: https://github.com/mehigh8/Router
   - Client-Server application where the server distributes messages to clients based on topic subcription: https://github.com/mehigh8/ClientServerApplication
   - Web Client that interacts with a REST API to maintain a library: https://github.com/mehigh8/WebClient
