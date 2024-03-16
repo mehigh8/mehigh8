@@ -1,6 +1,6 @@
 <p align="center">
 <b>
-A creative, hard-working and goal-oriented third year Computer Science student with good understanding of various programming languages such as: C, C++, C#, Java and Haskell. Great hands-on experience regarding game development, UNIX/Linux operating system and problem solving, but also upstanding theoretical knowledge on subjects including networking, communication protocols and algorithm design. Superb team player, excellent critical thinking, exceptional stress management and good communication skills.
+A creative, hard-working and goal-oriented fourth year Computer Science student with good understanding of various programming languages such as: C, C++, C#, Java and Haskell. Great hands-on experience regarding game development, UNIX/Linux operating system and problem solving, but also upstanding theoretical knowledge on subjects including networking, communication protocols and algorithm design. Superb team player, excellent critical thinking, exceptional stress management and good communication skills.
 </b>
 </p>
 
@@ -27,6 +27,7 @@ A creative, hard-working and goal-oriented third year Computer Science student w
 - <b>Unity/C# projects</b>
   - Submission for the 46th Ludum Dare Game Jam competition: https://github.com/mehigh8/Exolvuntur
   - Android app which rotates the camera inside the scene in correspondence to the phone's gyroscope: https://github.com/mehigh8/Gyroscope
+  - Third person fast-paced shooter, 3rd place at the 2023 RGDA Game Development competition: https://github.com/mehigh8/overtime
 - <b>Assembly projects</b>
   - Array representation, data structures and cache simulation problems: https://github.com/mehigh8/AssemblyHomework1
   - Sorting numbers, using other instructions to represent mov, sorting words, and mutual recursion problems: https://github.com/mehigh8/AssemblyHomework2
