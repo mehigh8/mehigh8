@@ -1,6 +1,6 @@
 <p align="center">
 <b>
-A creative, hard-working and detail-oriented Verification Engineer and Master of Science (M.Sc.) student in Computer Graphics, Multimedia and Virtual Reality with good programming hard-skills in: SystemVerilog, UVM, C, C++, C#, Java and Haskell. Great hands-on experience regarding game development and graphics programming. Very passionate about functional programming and compiler development with advanced UNIX/Linux operating system knowledge. Superb team player, excellent problem solving abilities, exceptional critical thinking capabilities and good communication skills.
+A creative, hard-working and detail-oriented Verification Engineer and Master of Science (M.Sc.) student in Computer Graphics, Multimedia and Virtual Reality with good programming hard-skills in: SystemVerilog, UVM, C, C++, C# and Java. Great hands-on experience regarding game development in Unity and graphics programming in OpenGL. Very passionate about functional programming and compiler development with advanced UNIX/Linux operating system knowledge. Superb team player, excellent problem solving abilities, exceptional critical thinking capabilities and good communication skills.
 </b>
 </p>
 
@@ -33,6 +33,9 @@ A creative, hard-working and detail-oriented Verification Engineer and Master of
   - Halite 2016 Bot implementation based on the starting package, University 2022 competition: 4th place: https://github.com/mehigh8/HaliteBot_FirstForce
   - Divide et Impera, Greedy and Dynamic Programming problems: https://github.com/mehigh8/AlgorithmDesign1
   - BFS, Dijkstra's Algorithm and Topological Sort problems: https://github.com/mehigh8/AlgorithmDesign2
+- <b>OpenGL/C++ projects</b>
+  - A fully functional 3D graphics engine made in OpenGL: https://github.com/mehigh8/GraphicsEngine
+  - Small OpenGL game where the player can move around a helicopter by clicking on the terrain: https://github.com/mehigh8/HelicopterGame
 - <b>Compilers - Cool Language compiler implemented in Java</b>
   - Examples of problems solved in Cool: https://github.com/mehigh8/Cool_SolvedProblems
   - A lexical and syntactic analysis for the Cool language implemented in Java language: https://github.com/mehigh8/Cool_Compiler_LexicalSyntacticAnalysis
@@ -42,6 +45,9 @@ A creative, hard-working and detail-oriented Verification Engineer and Master of
   - Racket Primitive Pythagorean Triplets generator: https://github.com/mehigh8/PrimitivePythagoreanTriplets
   - Different graph representations implemented in Haskell: https://github.com/mehigh8/HaskellGraphs
   - Prolog Ultimate Tic-Tac-Toe simulator with the capability to determine best moves locally/globally: https://github.com/mehigh8/UltimateTicTacToe
+
+
+
 - <b>Microservices projects</b>
   - A 3 microservices project + Configs repo for a ToDoList App backend with monitoring (Prometheus + Grafana) and API Gateway (Kong): https://github.com/orgs/Kitzbuhel/repositories
 - <b>Embedded projects</b>
