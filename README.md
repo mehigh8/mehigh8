@@ -1,3 +1,4 @@
+[Resume](https://github.com/mehigh8/mehigh8/blob/main/CV_Rosu_Mihai_Cosmin_March_2026_ver3.pdf) [LinkedIn](https://www.linkedin.com/in/mihai-cosmin-rosu/)
 <p align="center">
 <b>
 A creative, hard-working and detail-oriented Verification Engineer and Master of Science (M.Sc.) student in Computer Graphics, Multimedia and Virtual Reality with good programming hard-skills in: SystemVerilog, UVM, C, C++, C# and Java. Great hands-on experience regarding game development in Unity and graphics programming in OpenGL. Very passionate about functional programming and compiler development with advanced UNIX/Linux operating system knowledge. Superb team player, excellent problem solving abilities, exceptional critical thinking capabilities and good communication skills.
