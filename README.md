@@ -16,6 +16,7 @@ A creative, hard-working and detail-oriented Verification Engineer and Master of
   - 3D game that uses several procedural generation algorithms in order to create the terrain, plants, npcs, items and dungeons: https://github.com/mehigh8/ProceduralWorld
   - Physics simulation project in Unity where the physics system is implemented from scratch: https://github.com/mehigh8/SmashLab
   - Platformer VR game in which the player has to use magnetism with the help of his hands in order to traverse the levels and solve puzzles: https://github.com/PxGluz/magnet-hands-vr
+  - Turn-based multiplayer RPG which can be played in 2-4 players where each player must complete the goal first or defeat the others in combat: https://github.com/mehigh8/MercenariesOfHexlands
 
 - <b>C projects</b>
   - NetPBM Image Editor: https://github.com/mehigh8/ImageEditor
